@@ -16,8 +16,8 @@ A lightweight, containerized RESTful API built with FastAPI, designed to manage 
 - AWS EC2 (Free Tier)
 
 ## 🌐 Live Demo
-- **API Endpoint**: `http://<YOUR_AWS_PUBLIC_IP>` *(Replace with your actual IP, e.g., http://13.51.162.155)*
-- Try it: `curl http://<YOUR_AWS_PUBLIC_IP>/`
+- **API Endpoint**: `http://13.51.162.155` 
+- Try it: `curl http://13.51.162.155/`
 
 ## 📦 How to Run Locally
 1. Clone the repository: `git clone https://github.com/bhaskarthakur07/cloud-mini-project.git`
